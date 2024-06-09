@@ -1,2 +1,2 @@
 # Converter
- Developed a Flask web app for converting text to binary and vice versa, supporting 0-9, A-Z, a-z, and special symbols. Features a user-friendly interface and stable, network-accessible operation.
+Developed a Flask web application that converts text to binary and vice versa. It features a clean, user-friendly web interface with HTML and CSS, allowing users to select the conversion type and input their text. The application processes the input through well-defined helper functions and displays the conversion result on a new page. This web application converts 0-9, A-Z, a-z, and all special symbols. It runs on host '0.0.0.0' with debug mode off, ensuring stability and network accessibility. Check it out for a seamless text-to-binary conversion experience!
